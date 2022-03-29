@@ -8,7 +8,7 @@ Made with G*Maker by SilicaandPina
 **Right now, you will need to do the following for input to work**
 1. Install and launch the application so it can generate the configuration files. Let it get to the epilepsy warning screen, and then exit.
 2. Open Vitashell
-3. Navigate to ux0:user/00/data/STTV00001
+3. Navigate to ux0:/user/00/data/STTV00001 (but don't enter the directory yet)
 4. Press Δ, and select "open decrypted"
 5. Select "settings.ini"
 6. Scroll down to the section called [input]
