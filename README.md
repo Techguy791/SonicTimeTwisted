@@ -3,7 +3,7 @@ Unofficial Vita port of a Sonic Fan Game Made in Game Maker Studio 1
 
 Made with G*Maker by SilicaandPina
 
-#Make sure you have PSVShell installed and everything overclocked for this to run at a framerate anywhere near playable!
+***Make sure you have PSVShell installed and everything overclocked for this to run at a framerate anywhere near playable!***
 
 **Right now, you will need to do the following for input to work**
 1. Open Vitashell
