@@ -23,9 +23,9 @@ I'm going to try to find a workaround for this, don't worry!
 - Game is laggy, even when overclocked. I have no idea how to fix this right now, so if anyone wants to help me out, I will gladly accept PRs
 
 **Plans for the Future**
-- Make the default input method the gamepad
-- Mitigate lag (maybe by changing the target framerate from 60FPS to 30FPS? The game won't look as smooth, but it will run fast enough to be enjoyable)
-- Make nicer-looking livearea assets
+- [ ] Make the default input method the gamepad
+- [ ]Mitigate lag (maybe by changing the target framerate from 60FPS to 30FPS? The game won't look as smooth, but it will run fast enough to be enjoyable)
+- [ ]Make nicer-looking livearea assets
 
 **Building (Windows only)**
 - Obtain a copy of G*Maker (Google is your friend)
