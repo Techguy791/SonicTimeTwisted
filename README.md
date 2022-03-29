@@ -6,13 +6,14 @@ Made with G*Maker by SilicaandPina
 ***Make sure you have PSVShell installed and everything overclocked for this to run at a framerate anywhere near playable!***
 
 **Right now, you will need to do the following for input to work**
-1. Open Vitashell
-2. Navigate to ux0:user/00/data/STTV00001
-3. Press Δ, and select "open decrypted"
-4. Select "settings.ini"
-5. Scroll down to the section called [input]
-6. Change the line method="1.000000" to read method="2.000000"
-7. Save your changes
+1. Install and launch the application so it can generate the configuration files. Let it get to the epilepsy warning screen, and then exit.
+2. Open Vitashell
+3. Navigate to ux0:user/00/data/STTV00001
+4. Press Δ, and select "open decrypted"
+5. Select "settings.ini"
+6. Scroll down to the section called [input]
+7. Change the line method="1.000000" to read method="2.000000"
+8. Save your changes
 
 I'm going to try to find a workaround for this, don't worry!
 
