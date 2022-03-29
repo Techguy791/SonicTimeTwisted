@@ -22,6 +22,21 @@ I'm going to try to find a workaround for this, don't worry!
 - Game will appear to freeze when it's trying to load a lot of data at once (e.g. the Attraction Attack Act 1 intro cutscene)
 - Game is laggy, even when overclocked. I have no idea how to fix this right now, so if anyone wants to help me out, I will gladly accept PRs
 
+**Plans for the Future**
+- Make the default input method the gamepad
+- Mitigate lag (maybe by changing the target framerate from 60FPS to 30FPS? The game won't look as smooth, but it will run fast enough to be enjoyable)
+- Make nicer-looking livearea assets
+
+**Building (Windows only)**
+- Obtain a copy of G*Maker (Google is your friend)
+- Clone this repo, either by using Git or by downloading a .zip
+- Point G*Maker to the .gmx file, and the assets within the Livearea folder. It will yell at you for bg0.png not being the right size. Ignore this.
+- Make sure GM Version is set to 1.4.9999
+- Set "Download More RAM" to +109MiB (otherwise the Attraction Attack cutscene, and presumably any other cutscene, will look like a slideshow)
+- Set the TitleID and Title to whatever you want
+- Obtain a copy of psp2cgc.exe (again, Google)
+- Click "Make VPK
+
 Note:
  - The soundtrack, "Dueling Ages" by Hinchy et al. is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
  - The Linux and Windows builds include a gamepad mapping database from the SDL_GameControllerDB project: https://github.com/gabomdq/SDL_GameControllerDB. To view a copy of the project's license, visit https://github.com/gabomdq/SDL_GameControllerDB/blob/master/LICENSE.
