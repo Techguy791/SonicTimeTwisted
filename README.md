@@ -12,6 +12,8 @@ Made with G*Maker by SilicaandPina
 6. Change the line method="1.000000" to read method="2.000000"
 7. Save your changes
 
+I'm going to try to find a workaround for this, don't worry!
+
 Note:
  - The soundtrack, "Dueling Ages" by Hinchy et al. is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
  - The Linux and Windows builds include a gamepad mapping database from the SDL_GameControllerDB project: https://github.com/gabomdq/SDL_GameControllerDB. To view a copy of the project's license, visit https://github.com/gabomdq/SDL_GameControllerDB/blob/master/LICENSE.
