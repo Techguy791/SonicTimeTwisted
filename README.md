@@ -1,5 +1,16 @@
-# SonicTimeTwisted
-Source Code for a Sonic Fan Game Made in Game Maker Studio 1
+# SonicTimeTwisted-Vita
+Unofficial Vita port of a Sonic Fan Game Made in Game Maker Studio 1
+
+Made with G*Maker by SilicaandPina
+
+**Right now, you will need to do the following for input to work**
+1. Open Vitashell
+2. Navigate to ux0:user/00/data/STTV00001
+3. Press Δ, and select "open decrypted"
+4. Select "settings.ini"
+5. Scroll down to the section called [input]
+6. Change the line method="1.000000" to read method="2.000000"
+7. Save your changes
 
 Note:
  - The soundtrack, "Dueling Ages" by Hinchy et al. is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
