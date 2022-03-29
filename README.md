@@ -34,8 +34,9 @@ I'm going to try to find a workaround for this, don't worry!
 - Make sure GM Version is set to 1.4.9999
 - Set "Download More RAM" to +109MiB (otherwise the Attraction Attack cutscene, and presumably any other cutscene, will look like a slideshow)
 - Set the TitleID and Title to whatever you want
-- Obtain a copy of psp2cgc.exe (again, Google)
-- Click "Make VPK
+- Obtain a copy of psp2cgc.exe (again, Google) and place it in the same directory as G*Maker
+- Click "Make VPK". G*Maker will ask you to point it to psp2cgc.exe
+- The VPK will be built!
 
 Note:
  - The soundtrack, "Dueling Ages" by Hinchy et al. is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
