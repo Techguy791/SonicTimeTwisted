@@ -21,6 +21,7 @@ I'm going to try to find a workaround for this, don't worry!
 - Some graphical glitches
 - Game will appear to freeze when it's trying to load a lot of data at once (e.g. the Attraction Attack Act 1 intro cutscene)
 - Game is laggy, even when overclocked. I have no idea how to fix this right now, so if anyone wants to help me out, I will gladly accept PRs
+- Game is rather unstable, especially when time travelling. I've had it freeze the Vita AND crash the GPU in separate tests.
 
 **Plans for the Future**
 - [ ] Make the default input method the gamepad
