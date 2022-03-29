@@ -16,6 +16,11 @@ Made with G*Maker by SilicaandPina
 
 I'm going to try to find a workaround for this, don't worry!
 
+**Known Issues**
+- Some graphical glitches
+- Game will appear to freeze when it's trying to load a lot of data at once (e.g. the Attraction Attack Act 1 intro cutscene)
+- Game is laggy, even when overclocked. I have no idea how to fix this right now, so if anyone wants to help me out, I will gladly accept PRs
+
 Note:
  - The soundtrack, "Dueling Ages" by Hinchy et al. is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
  - The Linux and Windows builds include a gamepad mapping database from the SDL_GameControllerDB project: https://github.com/gabomdq/SDL_GameControllerDB. To view a copy of the project's license, visit https://github.com/gabomdq/SDL_GameControllerDB/blob/master/LICENSE.
